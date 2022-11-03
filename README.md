@@ -1,10 +1,16 @@
 # Hack-Crypto
 
+Install Metamask:
+https://metamask.io/
+
+
 Polygon Mumbai Faucet: (Get Test Tokens)
 
 https://faucet.polygon.technology/
 https://faucet.paradigm.xyz/
 
-Explorer:
+
+Polygon Explorer:
 
 https://mumbai.polygonscan.com/
+
